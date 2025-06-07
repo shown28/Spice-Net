@@ -1,3 +1,6 @@
 .setBG{
-    background-image: url("https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/NASA_Earth.jpg?itok=M0aRnEJ5");
+    background-image: url("../src/images/cover\ photo.png");
+}
+.add-shadow{
+    filter: drop-shadow(2px 15px 20px rgb(0 0 0 / 70%));   
 }
