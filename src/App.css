@@ -1,5 +1,5 @@
 .setBG{
-    background-image: url("../src/images/cover\ photo.png");
+    background-image: url("../src/images/coverphoto.png");
 }
 .add-shadow{
     filter: drop-shadow(2px 15px 20px rgb(0 0 0 / 70%));   

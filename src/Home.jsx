@@ -71,7 +71,7 @@ const Home = () => {
         </div>
         {/* items grid for pc */}
         <div className="grid grid-cols-4 gap-4 justify-items-center  max-md:hidden w-full  ">
-          <div className=" w-60 px-4 border rounded-md flex flex-col items-center justify-center py-10 bg-amber-50  shadow-lg hover:scale-105 duration-75">
+          <div className=" w-60 px-4 border rounded-md flex flex-col items-center justify-center py-10 bg-amber-50  shadow-lg hover:scale-105 hover:shadow-none duration-75">
             <img
               src={TurmericPwder}
               className="  object-cover rounded-md shadow-md"
