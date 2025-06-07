@@ -32,7 +32,7 @@ const Home = () => {
             href="#items  "
             className="mb-3 py-2 text-xl px-5 text-center md:mx-2 bg-green-600 rounded hover:bg-lime-400 hover:text-slate-900  "
           >
-            Rice Hour Powder <i className="fa-solid fa-angle-right"></i>
+            Rice Flour <i className="fa-solid fa-angle-right"></i>
           </a>
         </div>
       </div>
